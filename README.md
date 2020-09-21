@@ -40,8 +40,6 @@ O jogo conta a estória de Ragnar, um guerreiro viking que perdeu seu clã em um
 
 ## Vídeo / Screens
 
-Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
 <a href="https://youtu.be/lWAscIjrTKc" target="_blank" align="center">
   <img src="https://user-images.githubusercontent.com/10521603/93735478-fadcae00-fbaa-11ea-938f-f528d6b91c40.png">
 </a>
